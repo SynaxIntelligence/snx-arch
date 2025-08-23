@@ -32,7 +32,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --enableGitInfo -s docs -b https://synaxintelligence.github.io/snx-arch/
+        run: hugo --minify --enableGitInfo -s docs -b https://synaxintelligence.github.io/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
