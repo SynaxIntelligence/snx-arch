@@ -20,7 +20,7 @@ layout: hextra-home
   Данный портал представляет профессиональное портфолио функционального архитектора. <br class="sm:hx-block hx-hidden" />
   Здесь собраны примеры архитектурных схем, проектных решений и практических кейсов, которые иллюстрируют мой опыт в построении комплексных систем: <br class="sm:hx-block hx-hidden" />
   от проектирования инфраструктуры и интеграции сервисов до обеспечения безопасности и масштабируемости решений. <br class="sm:hx-block hx-hidden" />
-  Портал объединяет такие артефакты как `Спецификация на разработку` и `Архитектурное решение`. <br class="sm:hx-block hx-hidden" />  
+  Портал объединяет такие артефакты, как `Спецификация на разработку` и `Архитектурное решение`. <br class="sm:hx-block hx-hidden" />  
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -35,7 +35,7 @@ layout: hextra-home
     title="Описание сервисов приложения"
     subtitle="Включает описание бизнес и инфраструктурных сервисов"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/rosneft_logo.svg"
+    image="images/eksc-message.png"
     imageClass="hx-top-[20%] hx-left-[24px] hx-w-[50%] sm:hx-w-[50%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -51,7 +51,7 @@ layout: hextra-home
     title="Поиск по wiki"
     subtitle="База знаний портала и инструкция пользователей"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/eksc_wiki.png"
+    image="images/wiki.png"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
