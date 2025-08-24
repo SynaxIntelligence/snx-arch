@@ -78,7 +78,7 @@ sidebar:
 
 ## Диаграмма последовательности
 
-{{< plantuml id="etl_seq_diag" file="/docs/architecture/assets/etl/seq_diag.puml" >}}
+{{< plantuml id="etl_seq_diag" file="docs/architecture/assets/etl/seq_diag.puml" >}}
 
 ## Детализация архитектуры
 
