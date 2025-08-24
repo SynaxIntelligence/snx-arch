@@ -91,7 +91,7 @@ sidebar:
 {{% /details %}}
 
 [//]: # (### Уровень L2)
-[//]: # ({{< plantuml id="arch_diag_l2" file="/docs/architecture/assets/c4_L2.puml" >}})
+[//]: # ({{< plantuml id="arch_diag_l2" file="/docs/architecture/assets/integration.puml" >}})
 
 {{% details title="Уровень L2" closed="true" %}}
 
