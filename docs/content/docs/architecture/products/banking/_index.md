@@ -24,15 +24,15 @@ _Система развёрнута в инфраструктуре банка 
 
 ### Карта IT-ландшафта компании
 
-{{< zoomimg src="/docs/architecture/assets/banking/it-landscape.svg" alt="Карта IT-ландшафта" >}}
+{{< zoomimg src="docs/architecture/assets/banking/it-landscape.svg" alt="Карта IT-ландшафта" >}}
 
 ## Дорожная карта проекта
 
-{{< plantuml id="abs_banking" file="/docs/architecture/assets/banking/roadmap.puml" >}}
+{{< plantuml id="abs_banking" file="docs/architecture/assets/banking/roadmap.puml" >}}
 
 ## Состав прикладных и инфраструктурных сервисов
 
-{{< drawio file="/docs/architecture/assets/banking/c4.drawio" >}}
+{{< drawio file="docs/architecture/assets/banking/c4.drawio" >}}
 
 
 <!--more-->

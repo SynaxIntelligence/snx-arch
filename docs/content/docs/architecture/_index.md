@@ -12,21 +12,21 @@ sidebar:
 `Arch Deploy` это концепция синхронизации архитектурных артефактов с ландшафтом развертывания.
 Автоматизированный конвейер развертывания архитектуры решения в кластер.
 
-{{< drawio file="/docs/architecture/assets/archdeploy/250501_integration_w_deploy.drawio" >}}
+{{< drawio file="docs/architecture/assets/archdeploy/250501_integration_w_deploy.drawio" >}}
 
 ## Архитектура портала
 
 Данная схема представляет процесс интеграции между системами `{{< tooltip "Система 1" >}}` и `{{< tooltip "Система 2" >}}` с использованием `ETL Service` и брокера
 `{{< tooltip RabbitMQ >}}`.
 
-{{< zoomimg src="/docs/architecture/assets/etl/250326_integration.png" alt="Архитектура интеграции" >}}
+{{< zoomimg src="docs/architecture/assets/etl/250326_integration.png" alt="Архитектура интеграции" >}}
 
 ---
 
 > [!WARNING]
 > **SUT.** _Direct rendering of .drawio xml_
 
-[//]: # ({{< drawio file="/docs/architecture/products/etl/assets/241031_integration.drawio" >}})
+[//]: # ({{< drawio file="docs/architecture/products/etl/assets/241031_integration.drawio" >}})
 
 ## Описание архитектурных компонентов системы
 
@@ -86,16 +86,16 @@ sidebar:
 
 {{% details title="Уровень L1" closed="false" %}}
 
-{{< zoomimg src="/docs/architecture/assets/integration.svg" alt="Архитектура интеграции" >}}
+{{< zoomimg src="docs/architecture/assets/integration.svg" alt="Архитектура интеграции" >}}
 
 {{% /details %}}
 
 [//]: # (### Уровень L2)
-[//]: # ({{< plantuml id="arch_diag_l2" file="/docs/architecture/assets/integration.puml" >}})
+[//]: # ({{< plantuml id="arch_diag_l2" file="docs/architecture/assets/integration.puml" >}})
 
 {{% details title="Уровень L2" closed="true" %}}
 
-{{< zoomimg src="/docs/architecture/assets/c4_L2.svg" alt="Архитектура интеграции" >}}
+{{< zoomimg src="docs/architecture/assets/c4_L2.svg" alt="Архитектура интеграции" >}}
 
 {{% /details %}}
 

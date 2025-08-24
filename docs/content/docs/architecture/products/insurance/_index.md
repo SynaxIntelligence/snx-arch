@@ -27,7 +27,7 @@ sidebar:
 
 {{% details title="Уровень L2" closed="false" %}}
 
-{{< zoomimg src="/docs/architecture/assets/insurance/C4_L2.png" alt="Архитектура L2" >}}
+{{< zoomimg src="docs/architecture/assets/insurance/C4_L2.png" alt="Архитектура L2" >}}
 
 {{% /details %}}
 

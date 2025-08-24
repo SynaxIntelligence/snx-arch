@@ -7,7 +7,7 @@ draft: false
 
 ## Диаграмма доменов компании
 
-{{< zoomimg src="/docs/architecture/assets/datalh/puml/png/domains.png" alt="Домены" >}}
+{{< zoomimg src="docs/architecture/assets/datalh/puml/png/domains.png" alt="Домены" >}}
 
 ## Доменная структура
 

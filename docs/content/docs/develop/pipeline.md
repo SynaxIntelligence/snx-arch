@@ -66,7 +66,7 @@ R1 --> BUILD
 R1 --> DOCKER
 ```
 
-{{< plantuml id="pipeline_diag" file="/docs/architecture/products/etl/assets/pipeline.puml" >}}
+{{< plantuml id="pipeline_diag" file="docs/architecture/products/etl/assets/pipeline.puml" >}}
 
 ---
 

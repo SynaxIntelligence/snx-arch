@@ -31,7 +31,7 @@ _Бизнес хочет развивать все направления нез
 
 ## Состав прикладных и инфраструктурных сервисов
 
-{{< zoomimg src="/docs/architecture/assets/datalh/C4_L2.svg" alt="C4_L2" >}}
+{{< zoomimg src="docs/architecture/assets/datalh/C4_L2.svg" alt="C4_L2" >}}
 
 <!--more-->
 

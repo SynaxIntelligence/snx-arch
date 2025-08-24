@@ -21,23 +21,23 @@ sidebar:
 
 ## Состав прикладных и инфраструктурных сервисов
 
-{{< drawio file="/docs/architecture/assets/med/c4.drawio" >}}
+{{< drawio file="docs/architecture/assets/med/c4.drawio" >}}
 
 {{% details title="Уровень L1" closed="false" %}}
 
-{{< zoomimg src="/docs/architecture/assets/med/C4_L1.png" alt="Архитектура L1" >}}
+{{< zoomimg src="docs/architecture/assets/med/C4_L1.png" alt="Архитектура L1" >}}
 
 {{% /details %}}
 
 {{% details title="Уровень L2" closed="false" %}}
 
-{{< zoomimg src="/docs/architecture/assets/med/C4_L2.png" alt="Архитектура L2" >}}
+{{< zoomimg src="docs/architecture/assets/med/C4_L2.png" alt="Архитектура L2" >}}
 
 {{% /details %}}
 
 ## Диаграмма потоков данных
 
-{{< zoomimg src="/docs/architecture/assets/med/dfd.svg" alt="Диаграмма потоков данных" >}}
+{{< zoomimg src="docs/architecture/assets/med/dfd.svg" alt="Диаграмма потоков данных" >}}
 
 <!--more-->
 

@@ -22,7 +22,7 @@ math: true
 
 ## MindMap
 
-{{< plantuml id="solutions_mindmap" file="/docs/architecture/assets/solutions.puml" >}}
+{{< plantuml id="solutions_mindmap" file="docs/architecture/assets/solutions.puml" >}}
 
 ---
 

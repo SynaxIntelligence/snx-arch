@@ -24,17 +24,17 @@ sidebar:
 
 ## Состав прикладных и инфраструктурных сервисов
 
-{{< drawio file="/docs/architecture/assets/restate/c4.drawio" >}}
+{{< drawio file="docs/architecture/assets/restate/c4.drawio" >}}
 
 {{% details title="Уровень L1" closed="true" %}}
 
-{{< zoomimg src="/docs/architecture/assets/restate/C4_L1.png" alt="Архитектура L1" >}}
+{{< zoomimg src="docs/architecture/assets/restate/C4_L1.png" alt="Архитектура L1" >}}
 
 {{% /details %}}
 
 {{% details title="Уровень L2" closed="true" %}}
 
-{{< zoomimg src="/docs/architecture/assets/restate/C4_L2.png" alt="Архитектура L2" >}}
+{{< zoomimg src="docs/architecture/assets/restate/C4_L2.png" alt="Архитектура L2" >}}
 
 {{% /details %}}
 
