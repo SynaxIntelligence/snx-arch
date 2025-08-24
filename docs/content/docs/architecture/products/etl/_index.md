@@ -16,7 +16,7 @@ draft: false
 
 ## Дорожная карта проекта
 
-{{< plantuml id="etl_roadmap" file="/docs/architecture/assets/etl/roadmap.puml" >}}
+{{< plantuml id="etl_roadmap" file="docs/architecture/assets/etl/roadmap.puml" >}}
 
 ## 2. Архитектура проекта
 ### 2.1. Контроллеры
