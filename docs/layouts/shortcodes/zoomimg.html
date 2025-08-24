@@ -1,7 +1,11 @@
+{{ $raw := .Get "src" }}
+{{ $src := replaceRE "^/" "" $raw }}
 
 <div class="zoom-img-container">
-    <img src="{{ .Get `src` | relURL }}" alt="{{ .Get `alt` }}" class="zoom-img" />
-    <a href="{{ .Get `src` | relURL }}" download class="download-button">
+    <img src="{{ .Get $src | relURL }}" alt="{{ .Get `alt` }}" class="zoom-img" />
+<!--    <img src="{{ .Get `src` | relURL }}" alt="{{ .Get `alt` }}" class="zoom-img" />-->
+    <a href="{{ .Get $src | relURL}}" download class="download-button">
+<!--    <a href="{{ .Get `src` | relURL }}" download class="download-button">-->
         ⬇ Download
     </a>
 </div>
