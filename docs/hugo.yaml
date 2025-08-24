@@ -1,5 +1,5 @@
 # Configuration
-baseURL: 'https://synaxintelligence.github.io/'
+baseURL: 'https://synaxintelligence.github.io/snx-arch/'
 relativeURLs: true
 canonifyURLs: true
 languageCode: ru
