@@ -53,7 +53,7 @@ AddElementTag("microService", $sprite="java,scale=1", $shadowing="true", $legend
 AddElementTag("backendContainer", $fontColor=$ELEMENT_FONT_COLOR, $shadowing="true", $bgColor="#335DA5", $shape=, $legendText="backend container (eight sided)")
 AddElementTag("storage", $shape=RoundedBoxShape(), $bgColor="lightSkyBlue", $fontColor="black")
 AddElementTag("queue", $bgColor="aliceblue", $fontColor="black", $borderColor="darkgrey", $borderThickness="2")
-AddElementTag("extSaas", $bgColor="MediumSeaGreen", $shadowing="true", $fontColor="white", $borderColor="darkgrey", $borderThickness="2", $legendText="ЕЦПК SaaS сервисы (managed)")
+AddElementTag("extSaas", $bgColor="MediumSeaGreen", $shadowing="true", $fontColor="white", $borderColor="darkgrey", $borderThickness="2", $legendText="SaaS сервисы")
 AddElementTag("cluster", $bgColor="transparent", $fontColor="blue", $borderThickness=0, $sprite="kubernetes,scale=.75")
 AddElementTag("users", $bgColor="transparent", $fontColor="teal", $borderThickness=0, $sprite="users,scale=.75")
 
@@ -89,7 +89,7 @@ System_Boundary(dh, "ЦОД", $tags=datahall) {
 
         System_Boundary(cluster-2, "cluster-2", $tags=cluster) {
 
-            System_Boundary(ext_services, "Сервисы ЕЦПК") {
+            System_Boundary(ext_services, "Сервисы SaaS") {
                 Container_Ext(gitlab, "Gitlab", "ap repos", "Репозитории проекта" , $sprite=gitlab, $tags="extSaas")
             }
         }

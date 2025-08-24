@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17" pages="2">
-  <diagram name="dh-sila" id="JhdghDi4efUQMIzUwyPJ">
-    <mxGraphModel dx="6274" dy="6412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram name="integration" id="JhdghDi4efUQMIzUwyPJ">
+    <mxGraphModel dx="4927" dy="5832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Dmjc45yBlY_N5giGmj_I-0" />
         <mxCell id="Dmjc45yBlY_N5giGmj_I-1" parent="Dmjc45yBlY_N5giGmj_I-0" />
@@ -64,7 +64,7 @@
         <mxCell id="HfGCAxqmHauibHxcRJDX-31" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=default;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;rounded=1;" parent="HfGCAxqmHauibHxcRJDX-29" vertex="1">
           <mxGeometry x="210" y="10" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HfGCAxqmHauibHxcRJDX-32" value="Преобразование в модель Dochub" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontColor=#FFFFFF;strokeColor=none;" parent="HfGCAxqmHauibHxcRJDX-29" vertex="1">
+        <mxCell id="HfGCAxqmHauibHxcRJDX-32" value="Преобразование в модель" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontColor=#FFFFFF;strokeColor=none;" parent="HfGCAxqmHauibHxcRJDX-29" vertex="1">
           <mxGeometry x="10" y="5" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pu_pw2a60IJHKcLplwBg-0" value="" style="group" parent="Dmjc45yBlY_N5giGmj_I-1" vertex="1" connectable="0">
@@ -91,7 +91,7 @@
         <mxCell id="pu_pw2a60IJHKcLplwBg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endArrow=classic;endFill=1;" parent="Dmjc45yBlY_N5giGmj_I-1" source="pu_pw2a60IJHKcLplwBg-1" target="HfGCAxqmHauibHxcRJDX-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5GQ-NYTJsGiajZCUVAIN-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Модель DOCHUB&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pu_pw2a60IJHKcLplwBg-7" vertex="1" connectable="0">
+        <mxCell id="5GQ-NYTJsGiajZCUVAIN-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Модель&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="pu_pw2a60IJHKcLplwBg-7" vertex="1" connectable="0">
           <mxGeometry x="-0.5897" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -231,7 +231,7 @@
             <mxPoint x="-3044" y="-4338.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5GQ-NYTJsGiajZCUVAIN-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Модель SILA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="5GQ-NYTJsGiajZCUVAIN-12" vertex="1" connectable="0">
+        <mxCell id="5GQ-NYTJsGiajZCUVAIN-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Модель&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="5GQ-NYTJsGiajZCUVAIN-12" vertex="1" connectable="0">
           <mxGeometry x="-0.1526" relative="1" as="geometry">
             <mxPoint x="-1" y="-21" as="offset" />
           </mxGeometry>
@@ -517,8 +517,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="dh-sila-wdeploy" id="_lnGUid_Q_e_7iohD6x4">
-    <mxGraphModel dx="5878" dy="6205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram name="integration-wdeploy" id="_lnGUid_Q_e_7iohD6x4">
+    <mxGraphModel dx="5178" dy="5986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="BLHb9i_4nuDF46xLHJI9-0" />
         <mxCell id="BLHb9i_4nuDF46xLHJI9-1" parent="BLHb9i_4nuDF46xLHJI9-0" />
@@ -582,7 +582,7 @@
         <mxCell id="BLHb9i_4nuDF46xLHJI9-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=default;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.gear;rounded=1;" parent="BLHb9i_4nuDF46xLHJI9-17" vertex="1">
           <mxGeometry x="210" y="10" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BLHb9i_4nuDF46xLHJI9-20" value="Преобразование в модель Dochub" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontColor=#FFFFFF;strokeColor=none;" parent="BLHb9i_4nuDF46xLHJI9-17" vertex="1">
+        <mxCell id="BLHb9i_4nuDF46xLHJI9-20" value="Преобразование в модель" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontColor=#FFFFFF;strokeColor=none;" parent="BLHb9i_4nuDF46xLHJI9-17" vertex="1">
           <mxGeometry x="10" y="5" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BLHb9i_4nuDF46xLHJI9-21" value="" style="group" parent="BLHb9i_4nuDF46xLHJI9-1" vertex="1" connectable="0">
@@ -609,7 +609,7 @@
         <mxCell id="BLHb9i_4nuDF46xLHJI9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endArrow=classic;endFill=1;" parent="BLHb9i_4nuDF46xLHJI9-1" source="BLHb9i_4nuDF46xLHJI9-22" target="BLHb9i_4nuDF46xLHJI9-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BLHb9i_4nuDF46xLHJI9-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Модель DOCHUB&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="BLHb9i_4nuDF46xLHJI9-28" vertex="1" connectable="0">
+        <mxCell id="BLHb9i_4nuDF46xLHJI9-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Модель&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="BLHb9i_4nuDF46xLHJI9-28" vertex="1" connectable="0">
           <mxGeometry x="-0.5897" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -975,7 +975,7 @@
             <mxPoint x="-3044" y="-4338.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BLHb9i_4nuDF46xLHJI9-69" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Модель SILA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="BLHb9i_4nuDF46xLHJI9-68" vertex="1" connectable="0">
+        <mxCell id="BLHb9i_4nuDF46xLHJI9-69" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Модель&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="BLHb9i_4nuDF46xLHJI9-68" vertex="1" connectable="0">
           <mxGeometry x="-0.1526" relative="1" as="geometry">
             <mxPoint x="-1" y="14" as="offset" />
           </mxGeometry>

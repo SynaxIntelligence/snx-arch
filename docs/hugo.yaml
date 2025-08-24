@@ -1,5 +1,7 @@
 # Configuration
-baseURL: 'https://synaxintelligence.github.io/snx-arch/'
+baseURL: 'https://synaxintelligence.github.io/'
+relativeURLs: true
+canonifyURLs: true
 languageCode: ru
 title: 'Архитектурный портал'
 #theme: "github.com/imfing/hextra"

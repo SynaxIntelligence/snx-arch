@@ -14,7 +14,7 @@ draft: false
 ## **Структура файла**
 ```json {filename=ServiceConfig,linenos=table}
 {
-  "SilaService": {
+  "Service": {
     "ModelCodeAttributeId": "e1f78293-a5ea-489a-824e-7e809ec50365",
     "EntityMapConfig": {  },
     "LinkMapConfig": {  },

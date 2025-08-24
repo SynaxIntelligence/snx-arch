@@ -35,8 +35,8 @@ layout: hextra-home
     title="Описание сервисов приложения"
     subtitle="Включает описание бизнес и инфраструктурных сервисов"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/eksc-message.png"
-    imageClass="hx-top-[20%] hx-left-[24px] hx-w-[50%] sm:hx-w-[50%] dark:hx-opacity-80"
+    image="images/services.svg"
+    imageClass="hx-top-[20%] hx-left-[24px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
   >}}
   {{< hextra/feature-card
