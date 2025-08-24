@@ -1,7 +1,7 @@
 
 <div class="download-image-container">
 <!--<img id="plantuml-{{ .Get `id` }}" class="zoom-img" data-plantuml-file="{{ .Get `file` | relURL }}" />-->
-    <img id="plantuml-{{ .Get `id` }}" class="zoom-img" data-plantuml-file="{{ .Get `file` | absURL }}" />
+    <img id="plantuml-{{ .Get `id` }}" class="zoom-img" data-plantuml-file="{{ .Get `file` | relURL }}" />
 </div>
 
 <!--needed if zoom-img class is used-->
