@@ -10,10 +10,13 @@
 
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-<script src="/js/config.js"></script>
-<script src="/js/pako-deflate.js"></script>
-<script src="/js/plantuml-render.js"></script>
-<script src="{{ $zoomimgJS.RelPermalink }}"></script>
+<!--<script src="/js/config.js"></script>-->
+<!--<script src="/js/pako-deflate.js"></script>-->
+<!--<script src="/js/plantuml-render.js"></script>-->
+<script src='{{ "js/config.js" | relURL }}' defer></script>
+<script src='{{ "js/pako-deflate.js" | relURL }}' defer></script>
+<script src='{{ "js/plantuml-render.js" | relURL }}' defer></script>
+<script src='{{ $zoomimgJS.RelPermalink }}'></script>
   {{- partial "head.html" . -}}
   <body dir="{{ .Site.Language.LanguageDirection | default `ltr` }}">
     {{- partial "navbar.html" . -}}
